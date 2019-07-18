@@ -2,4 +2,5 @@
 项目测试
 > 帅
 ====# ###撒大声地====
-![giftimg.png](1)
+
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
